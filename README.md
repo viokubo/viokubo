@@ -3,12 +3,12 @@
 - 🔭 Hoje trabalho como Fullstack
 - 🌱 Estudando Java, JavaScript, Python, NodeJs, Typescript, React
 
-<div>
-  <a href="https://github.com/viokubo">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viokubo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viokubo&layout=compact&langs_count=16&theme=swift"/>
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=viokubo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viokubo&layout=compact&langs_count=16&theme=transparent"/>
 </div>
-<div style="display: flex" align="end">
+
+<div align="center">
   <div>
     <img align="center" height="50" width="60" alt="Vitor-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="50" width="60" alt="Vitor-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -17,6 +17,10 @@
     <img align="center" height="50" width="60" alt="Vitor-nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="50" width="60" alt="Vitor-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div>
+  
+  <br>
+  
+  ## Conecte comigo
   
   <div>
     <a href="https://www.linkedin.com/in/vitor-okubo-2193b21a1/" target="_blank">
