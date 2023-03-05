@@ -7,6 +7,8 @@ Sou desenvolvedor full-stack e estudante de Ciência da Computação. Os projeto
     <img alt="vitor-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/vitorhideki_" target="_blank">
     <img alt="vitor-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/viokubo"><img height="30" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=viokubo&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 </p>
 
 ---
@@ -28,5 +30,3 @@ Sou desenvolvedor full-stack e estudante de Ciência da Computação. Os projeto
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=viokubo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viokubo&layout=compact&langs_count=16&theme=transparent"/>
 </div>
-
-
